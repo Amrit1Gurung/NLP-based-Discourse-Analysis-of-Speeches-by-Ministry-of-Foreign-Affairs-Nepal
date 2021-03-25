@@ -4,4 +4,6 @@ so in this project we have aimed to analyze transcripts of speeches from <b>Mini
 
 some of the plots obtained from analysis of speeches are given below:  
 
-<img src="Graphs/total_topic_keywords_occurance.png" height='300' width='200'>  
+<img src="Graphs/total_topic_keywords_occurance.png" height='600' width='400'>  
+<img src="Graphs/peace_terrorism_mentions.png" height='600' width='900'> 
+<img src="Graphs/word_cloud.png" height='600' width='800'> 
